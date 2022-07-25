@@ -7,6 +7,7 @@
 3. Conflict Resolution
 4. Project Management
 5. Intermediate Farsi 
+
 | Employer | Job Description |
 | -------- | --------------- |
 | Berkeley Law Human Rights Center | 
