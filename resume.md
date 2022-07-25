@@ -1,6 +1,6 @@
 # Sofia Schnurer
 ## I am a student, researcher, and aspiring attorney. 
-![professional_headshot](url)
+![professional_headshot](professional_headshot.jpg)
 ## Skills
 1. Open Source Investigations Methods
 2. Data Analysis
