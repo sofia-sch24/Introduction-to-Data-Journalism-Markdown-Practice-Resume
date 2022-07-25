@@ -1,3 +1,4 @@
 # Sofia Schnurer
 ## I am a student, researcher, and aspiring attorney. 
-![Alt Text](url)
+![My Image](my-image.jpg)
+
